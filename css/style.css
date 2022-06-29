@@ -93,6 +93,13 @@ font-weight: bold;
   font-weight: bold;
   margin-top: 10px;
 }
+#body {
+ width: 940px;
+
+}#tamanho-carrossel {
+  width: 800px;
+  margin: 0 auto;
+}
 
 /* carrosel infinito*/ 
 .carousel-inner > .item > img,
